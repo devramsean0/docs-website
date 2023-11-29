@@ -3,7 +3,7 @@ import Link from "next/link";
 import Icon from "@hackclub/icons";
 import { Footer } from "@/components/footer";
 
-export default function Home({ packages }: { packages: string[]}) {
+export default function PackageSelector({ packages }: { packages: string[]}) {
   return (
     <>
     <div className="text-center">
