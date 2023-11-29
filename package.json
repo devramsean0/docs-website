@@ -9,7 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hackclub/icons": "^0.0.14",
+    "@types/markdown-it": "^13.0.7",
+    "markdown-it": "^13.0.2",
+    "markdown-it-highlightjs": "^4.0.1",
     "next": "13.5.4",
+    "prop-types": "^15.8.1",
     "react": "^18",
     "react-dom": "^18",
     "typedoc-json-parser": "8.2.0"
